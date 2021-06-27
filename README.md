@@ -2,6 +2,7 @@
 Debian 9 &amp; 10 Ubuntu 18.04 &amp; 20.04  
 
 *Step 1*
+
 apt update &amp;&amp; apt upgrade -y &amp;&amp; update-grub &amp;&amp; sleep 2 &amp;&amp; reboot  
 
 *Step 2 *
